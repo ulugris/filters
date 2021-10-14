@@ -1,0 +1,5 @@
+name: python-environment
+channels:
+  - defaults
+dependencies:
+  - matplotlib
